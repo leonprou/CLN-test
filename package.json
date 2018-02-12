@@ -14,7 +14,8 @@
     "solidity-coverage": "^0.4.9"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "coverage": "./node_modules/.bin/solidity-coverage"
   },
   "author": "",
   "license": "ISC"
