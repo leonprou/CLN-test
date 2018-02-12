@@ -1,0 +1,13 @@
+build/
+node_modules/
+
+coverage/
+coverage.json
+
+Unified.sol
+scripts/deployment/output
+
+formattedGrants*.csv
+formattedPresales*.csv
+
+.node-xmlhttprequest-*

@@ -1,0 +1,21 @@
+{
+  "name": "metacoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.0.3",
+    "testrpc": "0.0.1"
+  },
+  "devDependencies": {
+    "solidity-coverage": "^0.4.9"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
